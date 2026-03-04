@@ -1,0 +1,12 @@
+{
+  "name": "nova-backend",
+  "version": "1.0.0",
+  "description": "Nova AI — Anthropic API proxy for Vercel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
